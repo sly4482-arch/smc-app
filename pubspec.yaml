@@ -1,0 +1,14 @@
+name: smc_app
+description: SMC Trading App
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.7
+
+flutter:
+  uses-material-design: true
